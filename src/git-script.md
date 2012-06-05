@@ -132,6 +132,8 @@ Let's merge  `my-great-feature` into the `master` branch.
 		git rebase my-great-feature2	
 
 
-# Git FLow
+# Git Flow
+Demonstration
+
 
 
